@@ -1,6 +1,5 @@
 # Desktop-App-PyQt5
----
-# System Integrations - desktop application
+### System Integrations - desktop application
 
 ## File structure
 
