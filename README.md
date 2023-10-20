@@ -1,6 +1,6 @@
-# System Integrations - desktop application - excercise 1
+# System Integrations - desktop application
 
-**Task to be completed for a credit in the subject 'Systems Integrations'.**
+**Excercise 1**
 
 The task is to write a DESKTOP application with a graphical interface.
 The task is to write a program that has:
