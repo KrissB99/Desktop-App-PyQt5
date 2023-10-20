@@ -1,4 +1,4 @@
-# System Integrations - desktop application
+# System Integrations - desktop application - excercise 1
 
 **Task to be completed for a credit in the subject 'Systems Integrations'.**
 
